@@ -1,0 +1,6 @@
+{
+  "name": "AppMod Manager",
+  "description": "מנהל קובצי אפליקציות המאפשר חילוץ נכסים (Assets) מתוך קבצי APK, עריכת קבצי נתונים (SAF), ביצוע גיבויים אוטומטיים לפני עריכה והחלפת קבצי משחקים ואפליקציות.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
